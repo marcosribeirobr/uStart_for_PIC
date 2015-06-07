@@ -1,0 +1,14 @@
+D:\Dropbox\PRODUTOS\FIRMWARES - SOFTWARES\901002 - PIC BOARD\uSTART for PIC\obj\Debug\BootProgUsb.Properties.Resources.resources
+D:\Dropbox\PRODUTOS\FIRMWARES - SOFTWARES\901002 - PIC BOARD\uSTART for PIC\obj\Debug\BootProgUsb.MainForm.resources
+D:\Dropbox\PRODUTOS\FIRMWARES - SOFTWARES\901002 - PIC BOARD\uSTART for PIC\obj\Debug\uProg for PIC.csproj.GenerateResource.Cache
+D:\Dropbox\PRODUTOS\FIRMWARES - SOFTWARES\901002 - PIC BOARD\uSTART for PIC\bin\Debug\uProg for PIC.exe.config
+D:\Dropbox\PRODUTOS\FIRMWARES - SOFTWARES\901002 - PIC BOARD\uSTART for PIC\bin\Debug\uProg for PIC.exe
+D:\Dropbox\PRODUTOS\FIRMWARES - SOFTWARES\901002 - PIC BOARD\uSTART for PIC\obj\Debug\uProg for PIC.exe
+D:\Dropbox\PRODUTOS\FIRMWARES - SOFTWARES\901002 - PIC BOARD\uSTART for PIC\obj\Debug\uProg for PIC.csprojResolveAssemblyReference.cache
+D:\Dropbox\PRODUTOS\FIRMWARES - SOFTWARES\901002 - PIC BOARD\SOFTWARE\uSTART for PIC\bin\Debug\uProg for PIC.exe.config
+D:\Dropbox\PRODUTOS\FIRMWARES - SOFTWARES\901002 - PIC BOARD\SOFTWARE\uSTART for PIC\obj\Debug\uProg for PIC.exe
+D:\Dropbox\PRODUTOS\FIRMWARES - SOFTWARES\901002 - PIC BOARD\SOFTWARE\uSTART for PIC\bin\Debug\uProg for PIC.exe
+D:\Dropbox\PRODUTOS\FIRMWARES - SOFTWARES\901002 - PIC BOARD\SOFTWARE\uSTART for PIC\obj\Debug\uProg for PIC.csprojResolveAssemblyReference.cache
+D:\Dropbox\PRODUTOS\FIRMWARES - SOFTWARES\901002 - PIC BOARD\SOFTWARE\uSTART for PIC\obj\Debug\BootProgUsb.Properties.Resources.resources
+D:\Dropbox\PRODUTOS\FIRMWARES - SOFTWARES\901002 - PIC BOARD\SOFTWARE\uSTART for PIC\obj\Debug\BootProgUsb.MainForm.resources
+D:\Dropbox\PRODUTOS\FIRMWARES - SOFTWARES\901002 - PIC BOARD\SOFTWARE\uSTART for PIC\obj\Debug\uProg for PIC.csproj.GenerateResource.Cache

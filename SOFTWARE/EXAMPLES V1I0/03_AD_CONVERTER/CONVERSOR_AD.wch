@@ -1,0 +1,5 @@
+<WCH v="2">
+  <item n="TMR0IF_bit" r="0" s="False" e="True" i="710"/>
+  <item n="PORTA" r="2" s="False" e="True" i="157"/>
+  <item n="PORTA" r="2" s="False" e="True" i="157"/>
+</WCH>

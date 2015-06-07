@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo48 -N"D:\Dropbox\PRODUTOS\FIRMWARES - SOFTWARES\901002 - PIC BOARD\EXEMPLOS\04 - LCD\LCD.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"D:\Dropbox\PRODUTOS\FIRMWARES - SOFTWARES\901002 - PIC BOARD\EXEMPLOS\04 - LCD\" "LCD.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	LCD.c
+diagnostics: 46	123	Compiled Successfully	LCD.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+hint: 0	1144	Used RAM (bytes): 57 (3%)  Free RAM (bytes): 1970 (97%)	Used RAM (bytes): 57 (3%)  Free RAM (bytes): 1970 (97%)
+hint: 0	1144	Used ROM (bytes): 680 (2%)  Free ROM (bytes): 32088 (98%)	Used ROM (bytes): 680 (2%)  Free ROM (bytes): 32088 (98%)
+diagnostics: 0	125	Project Linked Successfully	LCD.mcppi
+diagnostics: 0	128	Linked in 94 ms	 
+diagnostics: 0	129	Project 'LCD.mcppi' completed: 328 ms	 
+diagnostics: 0	103	Finished successfully: 10 jan 2015, 17:54:23	LCD.mcppi

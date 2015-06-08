@@ -1,0 +1,23 @@
+#line 1 "D:/Dropbox/PRODUTOS/FIRMWARES - SOFTWARES/901002 - PIC BOARD/EXEMPLOS/01 - BOTAO SW1/BOTAO_SW1.c"
+#line 13 "D:/Dropbox/PRODUTOS/FIRMWARES - SOFTWARES/901002 - PIC BOARD/EXEMPLOS/01 - BOTAO SW1/BOTAO_SW1.c"
+void main()
+{
+ TRISA.F0 = 1;
+ TRISA.F1 = 0;
+ TRISA.F2 = 0;
+ ADCON1 |= 0x0F;
+
+ while(1)
+ {
+ if ( PORTA.F0 )
+ {
+  PORTA.F1  = 1;
+  PORTA.F2  = 0;
+ }
+ else
+ {
+  PORTA.F2  = 1;
+  PORTA.F1  = 0;
+ }
+ }
+}
